@@ -117,6 +117,6 @@ while loop:
 	food(foodx,foody,food_width,food_height,food_color)
 	player(playerx,playery,player_width,player_height,player_color)
 	pygame.display.update()
-	clock.tick(5)
+	clock.tick(6)
 #------------END-------------------
 	    
